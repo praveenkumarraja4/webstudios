@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">webstudios</string>
+    <string name="state_list">Select State</string>
+    <string name="dist_list">Select Dist</string>
+
+    <string-array name="Places">
+        <item>Tamilnadu</item>
+        <item>Kerala</item>
+        <item>Karnadaka</item>
+    </string-array>
+</resources>
